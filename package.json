@@ -14,6 +14,7 @@
 		"mongodb": "x.x.x",
 		"domo": "x.x.x",
 		"grunt": "x.x.x",
+		"express": "x.x.x",
 		"grunt-contrib-clean": "x.x.x",
 		"grunt-contrib-copy": "x.x.x",
 		"grunt-contrib-watch": "x.x.x",
