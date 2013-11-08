@@ -19,6 +19,7 @@
 		"grunt-contrib-clean": "x.x.x",
 		"grunt-contrib-copy": "x.x.x",
 		"grunt-contrib-watch": "x.x.x",
-		"grunt-contrib-concat": "x.x.x"
+		"grunt-contrib-concat": "x.x.x",
+		"q": "x.x.x"
 	}
 }
