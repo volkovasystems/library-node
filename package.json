@@ -8,6 +8,7 @@
 		"url": "https://github.com/volkovasystems/library-node.git"
 	},
 	"dependencies": {
+		"should": "x.x.x",
 		"npm": "x.x.x",
 		"async": "x.x.x",
 		"underscore": "x.x.x",
