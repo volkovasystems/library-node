@@ -22,6 +22,7 @@
 		"grunt-contrib-copy": "x.x.x",
 		"grunt-contrib-watch": "x.x.x",
 		"grunt-contrib-concat": "x.x.x",
+		"grunt-node-webkit-builder": "x.x.x",
 		"q": "x.x.x",
 		"redis": "x.x.x",
 		"dnode": "x.x.x"
