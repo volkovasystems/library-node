@@ -25,6 +25,7 @@
 		"grunt-node-webkit-builder": "x.x.x",
 		"q": "x.x.x",
 		"redis": "x.x.x",
-		"dnode": "x.x.x"
+		"dnode": "x.x.x",
+		"kew": "x.x.x"
 	}
 }
