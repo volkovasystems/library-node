@@ -26,6 +26,7 @@
 		"q": "x.x.x",
 		"redis": "x.x.x",
 		"dnode": "x.x.x",
-		"kew": "x.x.x"
+		"kew": "x.x.x",
+		"rimraf": "x.x.x"
 	}
 }
