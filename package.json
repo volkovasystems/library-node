@@ -27,6 +27,8 @@
 		"redis": "x.x.x",
 		"dnode": "x.x.x",
 		"kew": "x.x.x",
-		"rimraf": "x.x.x"
+		"rimraf": "x.x.x",
+		"requirejs": "x.x.x",
+		"amdefine": "x.x.x"
 	}
 }
