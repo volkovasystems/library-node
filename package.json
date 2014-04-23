@@ -29,6 +29,8 @@
 		"kew": "x.x.x",
 		"rimraf": "x.x.x",
 		"requirejs": "x.x.x",
-		"amdefine": "x.x.x"
+		"amdefine": "x.x.x",
+		"sails": "x.x.x",
+		"hostile": "x.x.x"
 	}
 }
