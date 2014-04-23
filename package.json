@@ -16,6 +16,7 @@
 		"mongodb": "x.x.x",
 		"domo": "x.x.x",
 		"grunt": "x.x.x",
+		"grunt-cli": "x.x.x",
 		"express": "x.x.x",
 		"optimist": "x.x.x",
 		"grunt-contrib-clean": "x.x.x",
@@ -29,6 +30,7 @@
 		"kew": "x.x.x",
 		"rimraf": "x.x.x",
 		"requirejs": "x.x.x",
-		"amdefine": "x.x.x"
+		"amdefine": "x.x.x",
+		"sails": "x.x.x"
 	}
 }
