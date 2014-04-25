@@ -16,6 +16,7 @@
 		"mongodb": "x.x.x",
 		"domo": "x.x.x",
 		"grunt": "x.x.x",
+		"grunt-cli": "x.x.x",
 		"express": "x.x.x",
 		"optimist": "x.x.x",
 		"grunt-contrib-clean": "x.x.x",
