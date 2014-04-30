@@ -34,6 +34,7 @@
 		"sails": "x.x.x",
 		"hostile": "x.x.x",
 		"winston": "x.x.x",
-		"winston-papertrail": "x.x.x"
+		"winston-papertrail": "x.x.x",
+		"npm-install-missing": "x.x.x"
 	}
 }
