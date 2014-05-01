@@ -18,6 +18,8 @@
 		"grunt": "x.x.x",
 		"grunt-cli": "x.x.x",
 		"express": "x.x.x",
+		"compression": "x.x.x",
+		"body-parser": "x.x.x",
 		"optimist": "x.x.x",
 		"grunt-contrib-clean": "x.x.x",
 		"grunt-contrib-copy": "x.x.x",
