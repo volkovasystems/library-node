@@ -37,6 +37,7 @@
 		"hostile": "x.x.x",
 		"winston": "x.x.x",
 		"winston-papertrail": "x.x.x",
-		"npm-install-missing": "x.x.x"
+		"npm-install-missing": "x.x.x",
+		"socket.io": "x.x.x"
 	}
 }
