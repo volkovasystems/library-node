@@ -20,6 +20,8 @@
 		"express": "x.x.x",
 		"compression": "x.x.x",
 		"body-parser": "x.x.x",
+		"cookie-session": "x.x.x",
+		"express-session": "x.x.x",
 		"optimist": "x.x.x",
 		"grunt-contrib-clean": "x.x.x",
 		"grunt-contrib-copy": "x.x.x",
