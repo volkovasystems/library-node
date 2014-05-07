@@ -23,6 +23,7 @@
 		"cookie-session": "x.x.x",
 		"express-session": "x.x.x",
 		"cookie-parser": "x.x.x",
+		"connect-redis": "x.x.x",
 		"optimist": "x.x.x",
 		"grunt-contrib-clean": "x.x.x",
 		"grunt-contrib-copy": "x.x.x",
