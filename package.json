@@ -42,6 +42,7 @@
 		"winston": "x.x.x",
 		"winston-papertrail": "x.x.x",
 		"socket.io": "x.x.x",
-		"http-proxy": "x.x.x"
+		"http-proxy": "x.x.x",
+		"lineman": "x.x.x"
 	}
 }
